@@ -1,5 +1,5 @@
 .env
 venv/
 __pycache__/
-project idea.txt
-project idea.docx
+project_idea.txt
+project_idea.docx
