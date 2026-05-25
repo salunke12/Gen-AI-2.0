@@ -1,1 +1,0 @@
-project which is able to update my resume when provided the job description
